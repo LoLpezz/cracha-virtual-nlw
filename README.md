@@ -12,5 +12,5 @@
  <p>Um dos desafios foi consumir API, pegar os links das redes sociais e atribuir aos icones e poder visitar</p>
  
  <p>
- <img src="">
+ <img src="https://github.com/LoLpezz/cracha-virtual-nlw/blob/main/Cracha%20virtual.PNG">
  </p>
