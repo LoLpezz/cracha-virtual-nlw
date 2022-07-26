@@ -8,8 +8,8 @@
 <li>Javascript</li>
 </ul>
  
- <h3>Desafios</h3>
- <p>Um dos desafios foi consumir API, pegar os links das redes sociais e atribuir aos icones e poder visitar</p>
+ <h3>Desafio</h3>
+ <p>O desafio foi consumir API, pegar os links das redes sociais e atribuir aos icones e tornar acessivel para visitar as redes</p>
  
  <p>
  <img src="https://github.com/LoLpezz/cracha-virtual-nlw/blob/main/Cracha%20virtual.PNG">
